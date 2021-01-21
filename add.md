@@ -8,7 +8,7 @@
   1. `augend`: `number`; 相加的第一个数;
   2. `addend`: `number`; 相加的第二个数;
 - **返回值**
-  `number`; 总和;
+  `number`，总和;
 
 #### 二. 使用示例
 
@@ -27,7 +27,7 @@ import createMathOperation from "./.internal/createMathOperation.js";
 
 #### 四. 源码分析
 
-- **源码**
+##### 源码
 
 ```js
 const add = createMathOperation((augend, addend) => augend + addend, 0);
