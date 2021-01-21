@@ -33,6 +33,6 @@ import createMathOperation from "./.internal/createMathOperation.js";
 const add = createMathOperation((augend, addend) => augend + addend, 0);
 ```
 
-`add` 方法实际上调用的是 `createMathOperation` 这个高阶函数内部返回的函数。
+`add` 方法实际上调用的是 `createMathOperation` 这个高阶函数内部返回的函数，所以可以直接看 **[《lodash 源码之 createMathOperation》](./createMathOperation.md)**。
 
 高阶函数：一个函数可以接收另一个函数作为参数，该函数就称为高阶函数。
