@@ -6,10 +6,10 @@ lodash 源码的总结，每一篇 md 对应一个函数。
 
 - **[internal](./)**
 
-  - **[createMathOperation](./createMathOperation.md)**
-  * **[baseToNumber](./baseToNumber.md)**
-  * **[baseToString](./baseToString.md)**
-  * **[getTag](./getTag.md)**
+  - **[createMathOperation](./internal/createMathOperation.md)**
+  * **[baseToNumber](./internal/baseToNumber.md)**
+  * **[baseToString](./internal/baseToString.md)**
+  * **[getTag](./internal/getTag.md)**
   
 - **[add](./add.md)**
 - **[isSymbol](./isSymbol.md)**
