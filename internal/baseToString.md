@@ -8,7 +8,7 @@
 import isSymbol from "../isSymbol.js";
 ```
 
-**[《lodash 源码之 isSymbol》](./isSymbol.md)**
+**[《lodash 源码之 isSymbol》](../isSymbol.md)**
 
 #### 二. 源码分析
 

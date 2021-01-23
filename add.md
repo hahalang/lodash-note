@@ -23,7 +23,7 @@ _.add(4, 6);
 import createMathOperation from "./.internal/createMathOperation.js";
 ```
 
-**[《lodash 源码之 createMathOperation》](./createMathOperation.md)**
+**[《lodash 源码之 createMathOperation》](./internal/createMathOperation.md)**
 
 #### 四. 源码分析
 

@@ -25,7 +25,7 @@ _.isSymbol('abc');
 import getTag from './.internal/getTag.js';
 ```
 
-**[《lodash 源码之 getTag》](./getTag.md)**
+**[《lodash 源码之 getTag》](./internal/getTag.md)**
 
 #### 四. 源码分析
 
