@@ -50,7 +50,7 @@ if (isSymbol(value)) {
 }
 ```
 
-如果`value`是`symbol`类型，就直接返回`NaN`。
+将`symbol`隐式转换成`number`类型会报错。所以对于`symbol`类型就直接返回`NaN`。
 
 - **其他情况**
 

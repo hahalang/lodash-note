@@ -5,10 +5,10 @@
 #### 一. 依赖项
 
 ```js
-import memoize from './memoize.js';
+import memoize from '../memoize.js';
 ```
 
-**[《lodash 源码之 memoize》](./memoize.md)**
+**[《lodash 源码之 memoize》](../memoize.md)**
 
 #### 二. 源码分析
 

@@ -32,7 +32,7 @@ _.get(object, 'a.b.c', 'default');
 import baseGet from './.internal/baseGet.js'
 ```
 
-**[《lodash 源码之 createMathOperation》](./internal/baseGet.md)**
+**[《lodash 源码之 baseGet》](./internal/baseGet.md)**
 
 #### 四. 源码分析
 
